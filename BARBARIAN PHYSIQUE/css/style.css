@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+nav{
+    background-color:black;
+    padding: 50px ;
+    color: white;
+}
+h1,ul,li{
+  
+    display: inline;
+
+}
+.list{
+    margin-left: 59%;
+}
+
+input{
+    width: 50%;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 5px;
+    border-color: #1F2833;
+    background-color: #d3d3d3;
+}
+button{
+    height: 40px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: #1F2833;
+    background-color:gray;
+    color: white;
+}
+.about:hover{
+    color:#66FCF1;
+    cursor: pointer;
+}
+.home:hover{
+    color:#66FCF1;
+    cursor: pointer;
+}
+.contact:hover{
+    color:#66FCF1;
+    cursor: pointer;
+}
+.product:hover{
+    color:#66FCF1;
+    cursor: pointer;
+}
+.list>li{
+    margin: 0px 17px;
+}
+div.row1{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px;
+    margin-bottom: 10px;
+}
+div.row2{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+div.label{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 190px; 
+    margin-right: 190px;
+}
+div.label2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 190px; 
+    margin-right: 190px;
+    margin-bottom: 30px;
+}
+.tricep:hover{
+    cursor: pointer;
+    color: white;
+    
+}
+.bicep:hover{
+    cursor: pointer;
+    color: white;
+}
+.back:hover{
+    cursor: pointer;
+    color: white;
+}
+.shoulder:hover{
+    cursor: pointer;
+    color: white;
+}
+.leg:hover{
+    cursor: pointer;
+    color: white;
+}
+.chest:hover{
+    cursor: pointer;
+    color: white;
+}
+button:hover{
+    color: black;
+    cursor: pointer;
+    background-color: white;
+}
+.a:hover{
+box-shadow: 3px 3px 25px 7px #1F2833;
+}
+.b:hover{
+    box-shadow: 3px 3px 25px 7px #1F2833;
+}
+.c:hover{
+    box-shadow: 3px 3px 25px 7px #1F2833;
+}
+.d:hover{
+    box-shadow: 3px 3px 25px 7px #1F2833;
+}
+.e:hover{
+    box-shadow: 3px 3px 25px 7px #1F2833;
+}
+.f:hover{
+    box-shadow: 3px 3px 25px 7px #1F2833;
+}
+.aa{
+    padding: 15px;
+}
+.bb{
+    padding: 15px;
+}
+.contact2{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    padding-top: 15px;
+}
+.aaa{
+    padding-bottom: 10px;
+    justify-content: end;
+}
+.bbb{
+    padding-bottom: 10px;
+}
+body{
+    background-color:#d3d3d3;
+}
+nav>h1{
+    font-weight: 500;
+}
